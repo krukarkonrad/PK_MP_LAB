@@ -1,0 +1,19 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/Project1/.vs/Project1/v15/ipch/AutoPCH/7104fa0373231de9/SOURCE.ipch
+/Project1/.vs/Project1/v15/ipch/AutoPCH/7104fa0373231de9
+/Project1/.vs/Project1/v15/ipch/AutoPCH/4610919cfe94df13/F_FILE.ipch
+/Project1/.vs/Project1/v15/ipch/AutoPCH/4610919cfe94df13
+/Project1/.vs/Project1/v15/ipch/AutoPCH
+/Project1/.vs/Project1/v15/Browse.VC.opendb
+/Project1/.vs/Project1/v15/Browse.VC.db
+/Project1/.vs/Project1/v15/.suo
+/Project1/.vs/Project1/v15
+/Project1
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/PK_MP_LAB1/v15/.suo
+/.vs/PK_MP_LAB1/v15
+/.vs
