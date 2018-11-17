@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include"f_file.h"
+#include"P3_f_file.h"
 /*
 @n		  - liczba
 @filename - nazwa pliku
