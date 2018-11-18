@@ -1,0 +1,9 @@
+10
+6
+bluza 250 6
+spodnie 150 8
+koszula 75 7
+buty_sportowe 100 9
+czapka 35 4
+szalik 10 3
+
